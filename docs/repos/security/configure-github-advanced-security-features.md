@@ -76,7 +76,7 @@ You can enable Advanced Security at the organization, project, or repository lev
 1. Select **Repositories**. 
 1. Select **Enable all** and see see an estimate for the number of active committers for your organization appear. 
 1. Select **Begin billing** to activate Advanced Security for every existing repository in each project in your organization. 
-1. Optionally, select **Automatically enable Advanced Security for new repositories** so that any newly created projects have Advanced Security enabled upon creation. 
+1. Optionally, select **Automatically enable Advanced Security for new projects** so that any newly created projects have Advanced Security enabled upon creation. 
 
 :::image type="content" source="media/enable-github-advanced-security-organization.png" lightbox="media/enable-github-advanced-security-organization.png" alt-text="Screenshot of org-level enablement for Advanced Security.":::
 
